@@ -2,10 +2,7 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 public class BT1 {
     public static void main(String[] args) {
-        System.out.println("abc");
        int Nam;
-        System.out.println("abc");
-        System.out.println("abc");
        Scanner scan = new Scanner(System.in);
         System.out.println("Nhap vao nam ");
         Nam=scan.nextInt();
