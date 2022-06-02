@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class BT1 {
     public static void main(String[] args) {
        int Nam;
+       int b;
        Scanner scan = new Scanner(System.in);
         System.out.println("Nhap vao nam ");
         Nam=scan.nextInt();
