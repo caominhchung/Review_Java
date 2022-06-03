@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BT5 {
+public class NguyenQuangLinh_BT5 {
     public static void main(String[] args) {
         double a,b,c,x1,x2,delta;
         Scanner sc=new Scanner(System.in);

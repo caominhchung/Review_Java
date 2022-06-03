@@ -1,6 +1,5 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
-public class BT1 {
+public class NguyenQuangLinh_BT1 {
     public static void main(String[] args) {
        int Nam;
        int b;

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BT7 {
+public class NguyenQuangLinh_BT7 {
     public static void main(String[] args) {
         int a[]=new int [10000];
         int tong =0;

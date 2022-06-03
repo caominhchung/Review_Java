@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BT4 {
+public class NguyenQuangLinh_BT4 {
     public static void main(String[] args) {
         int a,b;
         Scanner sc=new Scanner(System.in);
