@@ -1,6 +1,6 @@
 
 
-public class BT2 {
+public class NguyenQuangLinh_BT2 {
     public static void main(String[] args) {
         int tong =0;
         for(int i=1;i<=10;i++){
