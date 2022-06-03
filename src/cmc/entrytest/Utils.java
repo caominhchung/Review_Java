@@ -4,6 +4,8 @@ import cmc.entrytest.linh.NguyenQuangLinh_BT1;
 import cmc.entrytest.linh.NguyenQuangLinh_BT2;
 import cmc.entrytest.linh.NguyenQuangLinh_BT3;
 import cmc.entrytest.linh.NguyenQuangLinh_BT4;
+import cmc.entrytest.thanh.BTVN0002;
+import cmc.entrytest.thanh.BTVN0003;
 import cmc.entrytest.vu.YenVu_BT1;
 import cmc.entrytest.vu.YenVu_BT2;
 import cmc.entrytest.vu.YenVu_BT3;
@@ -100,7 +102,8 @@ public class Utils {
                         YenVu_BT2.workLesson2();
                     } else {
                         //Trường hợp của Thành
-                        System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
+                        BTVN0002.workLesson2();
+
                     }
                     break;
                 case "3":
@@ -112,7 +115,8 @@ public class Utils {
                         YenVu_BT3.workLesson3();
                     } else {
                         //Trường hợp của Thành
-                        System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
+                        BTVN0003.workLesson3();
+
                     }
                     break;
                 case "4":
