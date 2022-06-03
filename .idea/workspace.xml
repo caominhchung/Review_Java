@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1be468d9-55fd-470c-8f76-cb6cf717852e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="29ysbjIPG2dLFJ6afTYysathiqN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,22 +60,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
-  <component name="RunManager" selected="Application.Effect">
-    <configuration name="Effect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.Effect" />
-      <module name="Training_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cmc.entrytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NguyenQuangLinh_BT1">
     <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cmc.entrytest.Lesson1" />
       <module name="Training_Java" />
@@ -66,10 +79,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.MainTest" />
+      <module name="Training_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cmc.entrytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NguyenQuangLinh_BT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.linh.NguyenQuangLinh_BT1" />
+      <module name="Training_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cmc.entrytest.linh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NguyenQuangLinh_BT2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.linh.NguyenQuangLinh_BT2" />
+      <module name="Training_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cmc.entrytest.linh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YenVu_BT1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.vu.YenVu_BT1" />
+      <module name="Training_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cmc.entrytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.MainTest" />
+      <module name="Training_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lesson1" />
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.NguyenQuangLinh_BT1" />
+      <item itemvalue="Application.NguyenQuangLinh_BT2" />
+      <item itemvalue="Application.YenVu_BT1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NguyenQuangLinh_BT1" />
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.NguyenQuangLinh_BT2" />
         <item itemvalue="Application.Lesson1" />
-        <item itemvalue="Application.Effect" />
+        <item itemvalue="Application.YenVu_BT1" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +171,7 @@
       <workItem from="1654186055863" duration="795000" />
       <workItem from="1654189304308" duration="378000" />
       <workItem from="1654267776315" duration="497000" />
+      <workItem from="1654282904193" duration="630000" />
     </task>
     <servers />
   </component>

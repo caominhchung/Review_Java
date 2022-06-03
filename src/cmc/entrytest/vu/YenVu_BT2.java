@@ -1,6 +1,13 @@
+package cmc.entrytest.vu;
+
 import java.util.*;
-public class bai2 {
-    public static void main(String[] args) {
+public class YenVu_BT2 {
+    public static void workLesson2() {
+        /**
+         * đặt tên biến có ý nghĩa
+         * nên sử dụng default để in ra message cho tháng không phù hợp
+         * trừ việc đặt tên biến thì trình bày rất tốt => 9 điểm rưỡi
+         * */
         Scanner scanner= new Scanner(System.in);
         int a;
         a = scanner.nextInt();

@@ -1,7 +1,7 @@
 package cmc.entrytest.thanh;
 
 public class BTVN001 {
-    public static void main(String[] args) {
+    public static void testPushGit() {
         System.out.println("hello world");
     }
 }

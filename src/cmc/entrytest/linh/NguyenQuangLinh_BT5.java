@@ -1,6 +1,14 @@
+package cmc.entrytest.linh;
+
 import java.util.Scanner;
 public class NguyenQuangLinh_BT5 {
-    public static void main(String[] args) {
+    //giải ptb2
+    public static void workLesson5() {
+        /**
+         * nên khởi tạo cho từng biến 1 chứ không khởi tạo gộp nhiều biến
+         * đặt tên biến cho có ý nghĩa: sc....
+         * cách làm chính xác, nên format lại code theo chuẩn coding convention
+         * */
         double a,b,c,x1,x2,delta;
         Scanner sc=new Scanner(System.in);
         System.out.println("nhap a:");

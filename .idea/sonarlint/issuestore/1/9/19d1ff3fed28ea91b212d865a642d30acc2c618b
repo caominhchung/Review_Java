@@ -1,0 +1,11 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´½Å
+W
+java:S1118":Add a private constructor to hide the implicit public one.(´½Å8Â›îÖ’0
+A
+java:S1659"Declare "b" on a separate line.(äöÍÖşÿÿÿÿ8ÈâäÔ’0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ«½Ÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ûá£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ú×äÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘äŞŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Ğ¤¾ûÿÿÿÿ

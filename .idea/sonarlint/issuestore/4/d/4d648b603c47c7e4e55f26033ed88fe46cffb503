@@ -1,0 +1,17 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÜ»Öùÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÊÜ»Öùÿÿÿÿ
+<	java:S131""Add a default case to this switch.(á×Ëşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ÈğÏûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÿ¨÷şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯Óü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ÂªÔùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õôÌÛüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËåÁÆ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(§ıñ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(İÛûÍûÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(±øŸş
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(²ÈÏù
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ëüóûÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Üö¼Åÿÿÿÿÿ
