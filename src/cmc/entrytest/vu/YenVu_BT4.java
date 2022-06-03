@@ -1,6 +1,14 @@
+package cmc.entrytest.vu;
+
 import java.util.*;
-public class bai4 {
-    public static void main(String[] args) {
+public class YenVu_BT4 {
+    /**
+     * Tách ra hàm con để làm ngắn gọn hàm main -> ý tưởng và thực hiện rất tôt
+     * tên hàm: bắt đầu là động từ và chứ cái đầu là chữ thường... ví dụ: nhapSoNguyen
+     * format lại code
+     * nhìn chung là bài này làm rất tốt
+     * */
+    public static void workLesson4() {
         int a;
         int b;
         a=NhapSoNguyen("nhap so a: ");

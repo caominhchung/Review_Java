@@ -1,7 +1,12 @@
-import java.util.*;
-public class bai5 {
-    public static void main (String[] args)
+package cmc.entrytest.vu;
+
+public class YenVu_BT5 {
+    public static void workLesson5()
     {
+        /**
+         * biến i, num chỉ sử dụng trong vòng lặp nên không nên khởi tạo ở bên ngoài vòng for
+         * format lại code
+         * */
         int i =0;
         int num =0;
         String  SoNguyenTo = "";

@@ -1,6 +1,12 @@
+package cmc.entrytest.vu;
+
 import java.util.*;
-public class bai6 {
-    public static void main(String[] args) {
+public class YenVu_BT6 {
+    /**
+     * bài làm tốt
+     * format lại code
+     * */
+    public static void workLesson6() {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         double[] arr = new double[n];

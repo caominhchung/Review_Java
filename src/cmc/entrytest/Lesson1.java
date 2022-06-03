@@ -6,7 +6,7 @@ public class Lesson1 {
     /**
      * Viết chương trình kiểm tra năm nhuận
      * */
-    public static void main(String[] args) {
+    public static void work() {
         Scanner scanner = new Scanner(System.in);
         String input;
         boolean check;

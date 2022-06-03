@@ -1,6 +1,12 @@
+package cmc.entrytest.linh;
+
 import java.util.Scanner;
 public class NguyenQuangLinh_BT7 {
-    public static void main(String[] args) {
+    public static void workLesson7() {
+        /**
+         * nên thêm 1 bước nhập số phần từ của mảng trước, chứ ngồi nhập hết 10000 phần tử của mảng thì cũng hơi căng :))
+         * format lại code
+         * */
         int a[]=new int [10000];
         int tong =0;
         Scanner sc= new Scanner(System.in);
