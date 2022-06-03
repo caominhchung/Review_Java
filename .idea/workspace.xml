@@ -6,24 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1be468d9-55fd-470c-8f76-cb6cf717852e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/Lesson1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Vu/YenVu_Lesson_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/vu/YenVu_BT6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/linh/NguyenQuangLinh_BT7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,24 +49,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
-  <component name="RunManager" selected="Application.NguyenQuangLinh_BT1">
+  <component name="RunManager" selected="Application.cmc.entrytest.MainTest">
     <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cmc.entrytest.Lesson1" />
-      <module name="Training_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cmc.entrytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.MainTest" />
       <module name="Training_Java" />
       <extension name="coverage">
         <pattern>
@@ -142,17 +111,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cmc.entrytest.MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.MainTest" />
+      <module name="Training_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cmc.entrytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lesson1" />
-      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.cmc.entrytest.MainTest" />
       <item itemvalue="Application.NguyenQuangLinh_BT1" />
       <item itemvalue="Application.NguyenQuangLinh_BT2" />
       <item itemvalue="Application.YenVu_BT1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cmc.entrytest.MainTest" />
         <item itemvalue="Application.NguyenQuangLinh_BT1" />
-        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.NguyenQuangLinh_BT2" />
         <item itemvalue="Application.Lesson1" />
         <item itemvalue="Application.YenVu_BT1" />
