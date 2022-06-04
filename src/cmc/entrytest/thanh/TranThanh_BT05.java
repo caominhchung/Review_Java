@@ -3,7 +3,7 @@ package cmc.entrytest.thanh;
 import java.util.Scanner;
 
 public class TranThanh_BT05 {
-    public static void main(String[] args) {
+    public static void workLesson5() {
         double a,b,c,x1 , x2, delta;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap a(a # 0):");

@@ -141,7 +141,7 @@ public class Utils {
                         System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
                     } else {
                         //Trường hợp của Thành
-                        TranThanh_BT05.workLesson4();
+                        TranThanh_BT05.workLesson5();
                     }
                     break;
                 case "6":
