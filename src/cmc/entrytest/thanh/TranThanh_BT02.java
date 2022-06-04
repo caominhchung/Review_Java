@@ -1,5 +1,7 @@
 package cmc.entrytest.thanh;
 
+import java.util.Scanner;
+
 public class TranThanh_BT02 {
     public static void  workLesson2() {
 

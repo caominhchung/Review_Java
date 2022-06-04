@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1be468d9-55fd-470c-8f76-cb6cf717852e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN0001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN0002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN0003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN0004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN0005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN0006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/BTVN001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/TranThanh_BT02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/thanh/TranThanh_BT02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cmc/entrytest/thanh/TranThanh_BT03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cmc/entrytest/thanh/TranThanh_BT03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +57,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="build.tools" />
   </component>
-  <component name="RunManager" selected="Application.cmc.entrytest.MainTest">
+  <component name="RunManager" selected="Application.TranThanh_BT04">
     <configuration name="Lesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cmc.entrytest.Lesson1" />
       <module name="Training_Java" />
@@ -59,6 +67,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.MainTest" />
+      <module name="Training_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,12 +93,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NguyenQuangLinh_BT2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.linh.NguyenQuangLinh_BT2" />
+    <configuration name="TranThanh_BT04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cmc.entrytest.thanh.TranThanh_BT04" />
       <module name="Training_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cmc.entrytest.linh.*" />
+          <option name="PATTERN" value="cmc.entrytest.thanh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,7 +131,7 @@
       </method>
     </configuration>
     <configuration name="cmc.entrytest.MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-18.0.1.1" />
       <option name="MAIN_CLASS_NAME" value="cmc.entrytest.MainTest" />
       <module name="Training_Java" />
       <extension name="coverage">
@@ -126,19 +145,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MainTest" />
+      <item itemvalue="Application.TranThanh_BT04" />
       <item itemvalue="Application.Lesson1" />
       <item itemvalue="Application.cmc.entrytest.MainTest" />
       <item itemvalue="Application.NguyenQuangLinh_BT1" />
-      <item itemvalue="Application.NguyenQuangLinh_BT2" />
       <item itemvalue="Application.YenVu_BT1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TranThanh_BT04" />
+        <item itemvalue="Application.YenVu_BT1" />
+        <item itemvalue="Application.Lesson1" />
         <item itemvalue="Application.cmc.entrytest.MainTest" />
         <item itemvalue="Application.NguyenQuangLinh_BT1" />
-        <item itemvalue="Application.NguyenQuangLinh_BT2" />
-        <item itemvalue="Application.Lesson1" />
-        <item itemvalue="Application.YenVu_BT1" />
       </list>
     </recent_temporary>
   </component>

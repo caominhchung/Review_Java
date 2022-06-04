@@ -4,8 +4,6 @@ import cmc.entrytest.linh.NguyenQuangLinh_BT1;
 import cmc.entrytest.linh.NguyenQuangLinh_BT2;
 import cmc.entrytest.linh.NguyenQuangLinh_BT3;
 import cmc.entrytest.linh.NguyenQuangLinh_BT4;
-import cmc.entrytest.thanh.BTVN0002;
-import cmc.entrytest.thanh.BTVN0003;
 import cmc.entrytest.vu.YenVu_BT1;
 import cmc.entrytest.vu.YenVu_BT2;
 import cmc.entrytest.vu.YenVu_BT3;
@@ -90,6 +88,7 @@ public class Utils {
                         YenVu_BT1.workLesson1();
                     } else {
                         //Trường hợp của Thành
+                        Tra
                         System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
                     }
                     break;
