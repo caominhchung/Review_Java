@@ -9,10 +9,10 @@ public class NguyenQuangLinh_BT7 {
          * */
         int a[]=new int [10000];
         int tong =0;
-        Scanner sc= new Scanner(System.in);
+        Scanner scanner= new Scanner(System.in);
         for(int i=0;i<10000;i++)
         {
-            a[i]=sc.nextInt();
+            a[i]=scanner.nextInt();
             tong=tong+a[i];
         }
         System.out.println("Tong cac phan tu trong mang la:"+tong);

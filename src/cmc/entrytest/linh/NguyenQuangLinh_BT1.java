@@ -12,31 +12,31 @@ public class NguyenQuangLinh_BT1 {
          * nên sử dụng dấu cách sau 2 thành phần để code dc đẹp nhất (ví dụ: Nam = scan.nextInt();) hoặc trong trường hợp quên thì
          * code xong có thể sử dụng Ctrl + Alt + L để format lại đoạn code
          * */
-       int Nam;
-       Scanner scan = new Scanner(System.in);
+        int nam;
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap vao nam ");
-        Nam=scan.nextInt();
-        scan.close();
-        boolean NamNhuan = false;
-        if(Nam % 4 ==0)
+        nam = scanner.nextInt();
+        scanner.close();
+        boolean namNhuan;
+        if( nam % 4 == 0)
         {
-            if(Nam %100==0)
-            {
-                if(Nam %400==0)
-                    NamNhuan = true;
-                else
-                    NamNhuan = false;
-            }
+            if( nam % 100 == 0)
+                {
+                    if( nam % 400 == 0)
+                        namNhuan = true;
+                    else
+                        namNhuan = false;
+                }
             else
-                NamNhuan =true;
+                namNhuan = true;
         }
         else { //else ở đây có ý nghĩa là nếu năm không chia hết cho 4 thì nó sẽ nhảy vào else này. Mà lại set namNhuan = true trong đây?????
-            NamNhuan=true;
+            namNhuan = false;
         }
-        if(NamNhuan==true)
-            System.out.println(Nam+"la nam nhuan");
+        if(namNhuan==true)
+            System.out.println(nam+"la nam nhuan");
         else
-            System.out.println(Nam + "Khong phai la nam nhuan.");
+            System.out.println(nam + "Khong phai la nam nhuan.");
 
     }
 }

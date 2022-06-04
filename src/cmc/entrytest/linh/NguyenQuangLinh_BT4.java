@@ -9,14 +9,15 @@ public class NguyenQuangLinh_BT4 {
          * logic đúng, trình bày khối lệnh if else rõ ràng nên format lại code cho chuẩn coding convention
          * nên đặt tên biến có ý nghĩa, không nên đặt chung chung như Scanner sc ...
          * */
-        int a,b;
-        Scanner sc=new Scanner(System.in);
+        int a;
+        int b;
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap a:");
-        a= sc.nextInt();
+        a = scanner.nextInt();
         System.out.println("nhap b:");
-        b=sc.nextInt();
-        if(a==0){
-            if(b==0){
+        b = scanner.nextInt();
+        if( a == 0){
+            if( b == 0){
                 System.out.println("PTVSN");
             }
             else {
@@ -24,7 +25,7 @@ public class NguyenQuangLinh_BT4 {
             }
         }
         else {
-            float x=(float) -b/a;
+            float x = (float) -b/a;
             System.out.println("PT co 1 nghiem duy nhat"+x);
         }
     }

@@ -9,21 +9,24 @@ public class NguyenQuangLinh_BT5 {
          * đặt tên biến cho có ý nghĩa: sc....
          * cách làm chính xác, nên format lại code theo chuẩn coding convention
          * */
-        double a,b,c,x1,x2,delta;
-        Scanner sc=new Scanner(System.in);
+        double a;double b;double c;double x1;double x2;double delta;
+        Scanner scanner=new Scanner(System.in);
         System.out.println("nhap a:");
-        a = sc.nextDouble();
+        a = scanner.nextDouble();
         System.out.println("nhap b");
-        b=sc.nextDouble();
+        b=scanner.nextDouble();
         System.out.println("nhap c");
-        c=sc.nextDouble();
+        c=scanner.nextDouble();
         delta= Math.pow(b,2)-4*a*c;
-        if(delta<0){
-            System.out.println("PTVN");
-        } else if (delta==0) {
-            x1=-b/(2*a);
-            System.out.println("PT co nghiem kep x1=x2="+x1);
-        }else {
+        if(delta<0)
+            {
+                System.out.println("PTVN");
+            } else if (delta==0)
+                {
+                    x1=-b/(2*a);
+                    System.out.println("PT co nghiem kep x1=x2="+x1);
+                }
+        else {
             x1=(-b-Math.sqrt(delta))/(2*a);
             x2=(-b+Math.sqrt(delta))/(2*a);
             System.out.println("PT co nghiem");
