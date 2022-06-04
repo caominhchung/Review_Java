@@ -3,7 +3,7 @@ package cmc.entrytest.thanh;
 import java.util.Scanner;
 
 public class TranThanh_BT04 {
-    public void workLesson4(float a,float b) {
+    public static void workLesson4(float a, float b) {
 
        if (a==0){
            if (b == 0){
@@ -20,7 +20,8 @@ public class TranThanh_BT04 {
 
     public static void main(String[] args) {
         Scanner scanner =  new Scanner(System.in);
-        float a, b;
+        float a ;
+        float b ;
         System.out.println("Nhap a : ");
         a = scanner.nextFloat();
         System.out.println("Nhap b : ");

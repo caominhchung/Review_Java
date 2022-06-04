@@ -4,6 +4,7 @@ import cmc.entrytest.linh.NguyenQuangLinh_BT1;
 import cmc.entrytest.linh.NguyenQuangLinh_BT2;
 import cmc.entrytest.linh.NguyenQuangLinh_BT3;
 import cmc.entrytest.linh.NguyenQuangLinh_BT4;
+import cmc.entrytest.thanh.*;
 import cmc.entrytest.vu.YenVu_BT1;
 import cmc.entrytest.vu.YenVu_BT2;
 import cmc.entrytest.vu.YenVu_BT3;
@@ -88,8 +89,8 @@ public class Utils {
                         YenVu_BT1.workLesson1();
                     } else {
                         //Trường hợp của Thành
-                        Tra
-                        System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
+                        TranThanh_BT01.workLesson1();
+
                     }
                     break;
                 case "2":
@@ -101,7 +102,7 @@ public class Utils {
                         YenVu_BT2.workLesson2();
                     } else {
                         //Trường hợp của Thành
-                        BTVN0002.workLesson2();
+                        TranThanh_BT02.workLesson2();
 
                     }
                     break;
@@ -114,7 +115,7 @@ public class Utils {
                         YenVu_BT3.workLesson3();
                     } else {
                         //Trường hợp của Thành
-                        BTVN0003.workLesson3();
+                        TranThanh_BT03.workLesson3();
 
                     }
                     break;
@@ -127,7 +128,8 @@ public class Utils {
                         YenVu_BT4.workLesson4();
                     } else {
                         //Trường hợp của Thành
-                        System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
+                        TranThanh_BT04.workLesson4();
+
                     }
                     break;
                 case "5":
@@ -139,7 +141,7 @@ public class Utils {
                         System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
                     } else {
                         //Trường hợp của Thành
-                        System.out.println(CommonConstant.NOT_DONE); //nếu đã làm thì gọi hàm đã làm vào đây
+                        TranThanh_BT05.workLesson4();
                     }
                     break;
                 case "6":
